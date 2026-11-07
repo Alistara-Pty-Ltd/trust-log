@@ -1,0 +1,9 @@
+Alistara's fingerprint for 7 Nov 2026 (UTC)
+
+Decision trail, newest hash: fea17d700a0ab937397f4421c62e0dc73cb9a45477a95d0dee3300b9d5bee606
+Check results kept on 6 Nov 2026: sha256 dc93daf71e128c7f34e76aa31cf90cb084b805d948a5389a610319d7ca31029b
+
+The decision trail is our record of security decisions. Each entry's hash covers every field of it and the entry before it, so this hash changes if any earlier entry does.
+The check results' hash is sha256 over one line per result kept that day, oldest first: id|source|ok|sha256(detail)|sha256(link)|observed_at|at, with the detail and link each hashed as text (empty when there's none), times in UTC to the microsecond, and the lines joined by newlines.
+
+This shows that the record, and that day's results, haven't changed since this was published. It doesn't show that what's in them is true or complete.
